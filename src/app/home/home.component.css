@@ -1,0 +1,9 @@
+mat-toolbar{
+    margin: auto;
+    text-align: center;
+    width: 80%;
+}
+
+mat-icon-button{
+    margin: auto;
+}
